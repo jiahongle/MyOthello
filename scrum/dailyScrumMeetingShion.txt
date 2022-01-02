@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name: Shion Fujimori    email: shion.fujimori@mail.utoronto.ca    utorid: fujimor1
+
+Oct 17,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday: Nothing
+	What I will do today: Review Assignment1 solution
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday: Review the solution for Assignmnet1
+	What I will do today: Add email and name to members.txt
+	Obstacles I face: None
+
+Oct 27,2019
+	What I did yesterday: Added email and name to members.txt
+	What I will do today: Set up the java environment for the assignment.
+	Obstacles I face: None
+
+Oct 28,2019
+	What I did yesterday: Setting up environment.
+	What I will do today: Continue setting up environment. Switch the version back to Java8.
+	Obstacles I face: Troubles with Java11 and JavaFX
+
+Oct 29,2019
+	What I did yesterday: Finished setting up environment. BUG0.02 completed
+	What I will do today: Start working on US1.01
+	Obstacles I face: Trouble with Java11
+
+Oct 30,2019
+	What I did yesterday: Finished US1.01
+	What I will do today: Team meeting. Start working on US1.011 and US1.012.
+	Obstacles I face: None
+
+Oct 31,2019
+	What I did yesterday: Discuss how to implement basic MVC structure
+	What I will do today: Nothing (Career Forum @ Boston)
+	Obstacles I face:
+
+Nov 1,2019
+	What I did yesterday: Nothing (Career Forum @ Boston)
+	What I will do today: Nothing (Career Forum @ Boston)
+	Obstacles I face:
+
+Nov 2,2019
+	What I did yesterday: Nothing (Career Forum @ Boston)
+	What I will do today: Nothing (Career Forum @ Boston)
+	Obstacles I face:
+
+Nov 3,2019
+	What I did yesterday: Nothing (Career Forum @ Boston)
+	What I will do today: Nothing (Career Forum @ Boston)
+	Obstacles I face:
+
+Nov 4,2019
+	What I did yesterday: Nothing (Career Forum @ Boston)
+	What I will do today: Divide up user stories among team members. Catch up and review what we've completed so far.
+	Obstacles I face: None
+
+Nov 5,2019
+	What I did yesterday: Reviewed US1.01 - US1.05
+	What I will do today: Work on US1.06 and US1.07 together. Meeting afternoon.
+	Obstacles I face: None
+
+Nov 6,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing (study for STA256 test)
+	Obstacles I face: None
+
+Nov 7,2019
+	What I did yesterday: Nothing (study for STA256 test)
+	What I will do today: Nothing (study for STA256 test)
+	Obstacles I face:
+
+Nov 8,2019
+	What I did yesterday: Nothing (study for STA256 test)
+	What I will do today: Review US1.07 and US1.071. Other members completed it.
+	Obstacles I face: None
+
+Nov 9,2019
+	What I did yesterday: Review US1.07
+	What I will do today: Meeting at downtown Toronto. Work on US1.08, US1.09, US1.091.
+	Obstacles I face: None
+
+Nov 10,2019
+	What I did yesterday: Meeting at downtown Toronto. Work on US1.09, US1.091.
+	What I will do today: Work on US1.11
+	Obstacles I face: None
+
+Nov 11,2019
+	What I did yesterday: Work on US1.11.
+	What I will do today: Work on US1.12 and US1.13. Update springBacklog.
+	Obstacles I face: None.
+
+Nov 12,2019
+	What I did yesterday: Worked on US1.12. Did not do the actual implementation.
+	What I will do today: Start coding for US1.12.
+	Obstacles I face: It was difficult to choose which design pattern to use for "undo" function.
+
+Nov 13,2019
+	What I did yesterday: Implemented US1.12
+	What I will do today: Continue working for US1.12. Fix some bugs on US1.10
+	Obstacles I face: Struggle understanding how to implement command design pattern for "undo" function.
+
+Nov 14,2019
+	What I did yesterday: Fixed minor bugs. Completed set up for US1.12
+	What I will do today: Continue working for US1.12. Help Jin for US1.08.
+	Obstacles I face: None
+
+Nov 15,2019
+	What I did yesterday: Worked on US1.12. 
+	What I will do today: Continue working on US1.12. Hopefully finish US1.12 by tonight. Meeting afternoon at UTM.
+	Obstacles I face: Need to split in multiple cases for "undo" function. (Human, AI, random)
+
+Nov 16,2019
+	What I did yesterday: Completed US1.12. Start working on minor bugs on undo function.
+	What I will do today: Continue working on BUG1.12. Start working on US1.121 (re-do function) and US1.13 (Animation).
+	Obstacles I face: Add AI and Random moves to undo stack. 
+
+Nov 17,2019
+	What I did yesterday: Completed US1.121 (re-do function). Finished the basic setup for the animation.
+	What I will do today: Continue working on US1.13. Fix small bugs on undo / re-do function.
+	Obstacles I face: Fade-in animation does not work properly. Need to add animation only to the buttons that will actually change.
+
+Nov 18,2019
+	What I did yesterday: Completed US1.121, BUG1.121, BUG1.122, BUG1.123. Undo / Redo functions are now working on any game mode.
+	What I will do today: Lab Completed.
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

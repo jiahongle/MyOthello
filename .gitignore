@@ -1,0 +1,7 @@
+/bin/
+/*.classpath
+/*.project
+/.settings
+/*.springBeans
+/*.launch
+# JDT-specific (Eclipse Java Development Tools)

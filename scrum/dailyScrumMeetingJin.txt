@@ -1,0 +1,223 @@
+# Fill in, commit and push each day.
+Member name:Jin Yoshizawa      email:jin.yoshizawa@mail.utoronto.ca     utorid:yoshiza9   
+
+Oct 17,2019
+	What I did yesterday: Nothing 
+	What I will do today: Added email and name to the meber.txt
+	Obstacles I face: None
+
+Oct 18,2019
+	What I did yesterday: Added email and name to the meber.txt
+	What I will do today: Nothing
+	Obstacles I face: None
+	
+Oct 19,2019
+	What I did yesterday: Nothing 
+	What I will do today: Setting up the environment for the assignment. 
+	Obstacles I face: Environment set up including changing Java and JavaFX version. 
+
+Oct 20,2019
+	What I did yesterday: Setting up the environment for the assignment. 
+	What I will do today: Still working on setting up the environment. 
+	Obstacles I face: Handling errors related to environment set up including changing Java and JavaFX version. 
+
+Oct 21,2019
+	What I did yesterday: Finished up my environment set up. 
+	What I will do today: Nothing 
+	Obstacles I face: None
+
+Oct 22,2019
+	What I did yesterday: Nothing
+	What I will do today: Studying for exams. 
+	Obstacles I face: None
+
+Oct 23,2019
+	What I did yesterday: Studying for exams.  
+	What I will do today: Studying for exams. 
+	Obstacles I face: None
+
+Oct 24,2019
+	What I did yesterday: Studying for exams. 
+	What I will do today: Studying for exams. 
+	Obstacles I face: None
+
+Oct 25,2019
+	What I did yesterday: Studying for exams. 
+	What I will do today: Studying for exams. 
+	Obstacles I face: None
+
+Oct 26,2019
+	What I did yesterday: Studying for exams. 
+	What I will do today: Studying for exams. 
+	Obstacles I face: None
+
+Oct 27,2019
+	What I did yesterday: Studying for exams.
+	What I will do today: Discussing BUG1.021.
+	Obstacles I face: None 
+
+Oct 28,2019
+	What I did yesterday: Help completing BUG1.021.
+	What I will do today: Reviewing MVC structure and GUI we learnt. 
+	Obstacles I face: None
+
+Oct 29,2019
+	What I did yesterday: Reviewing MVC structure and GUI we learnt. 
+	What I will do today: Start working on US1.04.
+	Obstacles I face: I realised that I need more review to complete the user story. 
+
+Oct 30,2019
+	What I did yesterday: Reviewing MVC structure and GUI we learnt. 
+	What I will do today: Start working on US1.04 and review.
+	Obstacles I face: None
+
+Oct 31,2019
+	What I did yesterday: Reviewing 207 contents.
+	What I will do today: Discussing how the team split the future user story and review 207 contents.
+	Obstacles I face: None
+
+Nov 1,2019
+	What I did yesterday: Reviewing 207 contents.
+	What I will do today: Reviewing 207 contents.
+	Obstacles I face: None
+
+Nov 2,2019
+	What I did yesterday: Reviewing 207 contents.
+	What I will do today: Completing US1.04.
+	Obstacles I face: None
+
+Nov 3,2019
+	What I did yesterday: Completed US1.04.
+	What I will do today: Studying for exams.
+	Obstacles I face: None
+
+Nov 4,2019
+	What I did yesterday: Studying for exams.
+	What I will do today: Studying for exams.
+	Obstacles I face: None
+
+Nov 5,2019
+	What I did yesterday: Studying for exams.
+	What I will do today: Studying for exams.
+	Obstacles I face: None
+
+Nov 6,2019
+	What I did yesterday: Studying for exams.
+	What I will do today: Begin working on US1.08.
+	Obstacles I face: I have to review the strategy design pattern. 
+
+Nov 7,2019
+	What I did yesterday: Begin working on US1.08.
+	What I will do today: Review the strategy design pattern. 
+	Obstacles I face: None 
+
+Nov 8,2019
+	What I did yesterday: Began working on US1.08.
+	What I will do today: Discuss how I should effectively use strategy design pattern for US1.08.
+	Obstacles I face: None
+
+Nov 9,2019
+	What I did yesterday: Discuss how I should effectively use strategy design pattern for US1.08.
+	What I will do today: Create a abstract structure of US1.08.
+	Obstacles I face: Realise that we should use factory design pattern as well. 
+
+Nov 10,2019
+	What I did yesterday: Create a abstract structure of US1.08.
+	What I will do today: Continue working on US1.08.
+	Obstacles I face: None
+
+Nov 11,2019
+	What I did yesterday: Continued working on US1.08.
+	What I will do today: Continue working on US1.08.
+	Obstacles I face: Found some bugs
+
+Nov 12,2019
+	What I did yesterday: Continued working on US1.08.
+	What I will do today: Completed US1.08.
+	Obstacles I face: None
+
+Nov 13,2019
+	What I did yesterday: Completed US1.08.
+	What I will do today: Adapt the completed works in the UI. 
+	Obstacles I face:
+
+Nov 14,2019
+	What I did yesterday: Adapt the completed works in the UI.
+	What I will do today: Discuss and go to professors office hours to clarify about US1.12. 
+	Obstacles I face:
+
+Nov 15,2019
+	What I did yesterday: Discuss and go to professors office hours to clarify about US1.12. 
+	What I will do today: Start working on BUG1.12. 
+	Obstacles I face: Implementing undo to game modes that involve 
+
+Nov 16,2019
+	What I did yesterday: Started working on BUG1.12.
+	What I will do today: Continue working on BUG1.12 and partially work on animation. 
+	Obstacles I face: Same as yesterday.
+
+Nov 17,2019
+	What I did yesterday: Continue working on BUG1.12 and partially work on animation.
+	What I will do today: Finish BUG1.12, BUG1.124 and fix all major bugs.
+	Obstacles I face: Since US1.08 is one of the key features of this game, I have to adapt to every major change that we 
+	have, including many user story after US1.08. 
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

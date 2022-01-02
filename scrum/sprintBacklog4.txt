@@ -1,0 +1,218 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 4 Nov 10-Nov 16, 2019
+# Sprint 4 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 1.08 : UTORID : lejia : STATUS : Complete
+NAME     : Factory Design Pattern for OpponentChooser
+OWNER    : Jia Hong
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 1 hour
+ISSUE    : Implementing factory design pattern for OpponentChooser
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.092 : UTORID : lejia : STATUS : Complete
+NAME     : Timer Stops Game
+OWNER    : Jia Hong
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL : 1 hour
+ISSUE    : When the timer for either player runs out, the game stops and declares
+			the winner to be the player who still has time on the clock. When game ends,
+			both timers should also stop ticking down. 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.101 : UTORID : liusherm : STATUS : Complete
+NAME     : Highlight Hint 
+OWNER    : Sherman
+PRIORITY : 2
+ESTIMATE : 30 min    ACTUAL : 45 min
+ISSUE    : Instead of displaying a row and column on the greediest tile (hint tile)
+the hint tile should be highlighted yellow 
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.102 : UTORID : liusherm : STATUS : Complete
+NAME     : Check box
+OWNER    : Sherman 
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 2hours
+ISSUE    : Instead of a button, the user is able to use radio buttons to permanantly enable or disable getting a greedy hint
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.103 : UTORID : liusherm : STATUS : Complete
+NAME     : Random Hint
+OWNER    : Sherman 
+PRIORITY : 1
+ESTIMATE : 30 min   ACTUAL : 45 min
+ISSUE    : Replicate US1.02 but with a random hint instead 
+--------------------------------------------------------------------------
+-------------------------------------------------------------------------
+TYPE     : USER STORY 1.11 : UTORID : lejia : STATUS : Complete
+NAME     : Restart
+OWNER    : Jia Hong
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 2 hours 
+ISSUE    : When a user is playing, they see a button etc. which allows them
+to restart the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.07 : UTORID : lejia : STATUS : Complete
+NAME     : Opponent Chooser GUI Display
+OWNER    : Jia Hong
+PRIORITY : 1
+ESTIMATE : 1 hour ACTUAL : 20 mins
+ISSUE    : Modifying the implementation of the US1.07 UI, adding drop down
+menu for P1 and P2, allowing both players to choose their player type
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.12 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Undo
+OWNER    : Shion Fujimori
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 6 hours
+ISSUE    : A user has the ability to undo the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.121 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Redo
+OWNER    : Shion Fujimori
+PRIORITY : 1
+ESTIMATE : 2 hours    ACTUAL : 4 hours
+ISSUE    : A user has the ability to re-do the last move or moves.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.12 : UTORID : yoshiza9 : STATUS : Complete
+NAME     : Undo (vs AI or Random)
+OWNER    : Jin
+PRIORITY : 2
+ESTIMATE : 1 hour ACTUAL : 2 hours
+ISSUE    : Reimplemented US1.12 since existing implementation wasn't working
+properly
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.121 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Undo
+OWNER    : Shion Fujimori
+PRIORITY : 2
+ESTIMATE : 1 hour ACTUAL : 2 hours
+ISSUE    : Modify the implementation of the US1.12. Need to reset the undo 
+stack when the game ends. Also, need to disable the button when the user
+cannot make the undo.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.122 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Redo 
+OWNER    : Shion Fujimori
+PRIORITY : 2
+ESTIMATE : 1 hour ACTUAL : 2 hours
+ISSUE    : Modify the implementation of the US1.121. Need to disable the redo
+button whenever the undo button is not pressed beforehand. Also, need to reset
+the re-do stack when the user stops undoing the moves and start making a 
+new move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.123 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Redo (vs AI or Random)
+OWNER    : Shion Fujimori
+PRIORITY : 2
+ESTIMATE : 2 hours ACTUAL : 2 hours
+ISSUE    : Reimplemented US1.121 since existing implementation wasn't working
+properly for Human vs AI nd Human vs Random.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.124 : UTORID : yoshiza9 : STATUS : Complete
+NAME     : Undo and Redo (vs AI)
+OWNER    : Jin
+PRIORITY : 2
+ESTIMATE : 2 hours ACTUAL : 2 hours
+ISSUE    : Enable undo after redo.
+--------------------------------------------------------------------------
+>>>>>>> 5b726b221d1a3137168a738b18325ffd814f43a5
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.13 : UTORID : lejia : STATUS : Complete
+NAME     : Animation
+OWNER    : Jia Hong
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL : 3 hours
+ISSUE    : When a user makes a move, they see an animation associated
+with their placing a piece.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.15 : UTORID : liusherm : STATUS : Complete
+NAME     : Better strategy
+OWNER    : Sherman 
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 3 hours 
+ISSUE    : A user can play the following, improved strategy:
+Choose a corner if available,
+otherwise choose a side if available, otherwise choose a space that
+maximizes the players presence in the middle 4 by 4 square of the board,
+otherwise choose the location maximizing the movers presence on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.15 : UTORID : lejia : STATUS : Complete
+NAME     : Better strategy UI Components
+OWNER    : Jia Hong
+PRIORITY : 2
+ESTIMATE : 30 mins   ACTUAL :  10 mins
+ISSUE    : Added UI components for PlayerSmart
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.151 : UTORID : lejia : STATUS : Complete
+NAME     : Better Strategy hook-up to UI
+OWNER    : Jia Hong
+PRIORITY : 2
+ESTIMATE : 30 mins   ACTUAL :  30 minutes
+ISSUE    : Modifying better strategy so it fits in with factory and strategy design pattern
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.17 : UTORID : liusherm, yoshiiza9, lejia : STATUS : Complete
+NAME     : Use Visitor for Othello board
+OWNER    : Sherman, Jia Hong, Jin
+PRIORITY : 1
+ESTIMATE : 2 hours  ACTUAL : 1 hour
+ISSUE    : There is a lot of replicated code in Othello and OthelloBoard, all of
+which visits the board in one of a few different ways. Implement the
+visitor design pattern on the OthelloBoard and rewrite code using othello
+and othelloBoard to now create visitors and use them as appropriate.
+
+NOTE: Some private methods could be removed as a result of this.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 9.99 : UTORID : lejia, yoshiiza9, liusherm, fujimor1 : STATUS : Complete
+NAME     : Architecture Document
+OWNER    : Jia Hong, Jin, Sherman, Shion
+PRIORITY : (1,2,3)
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+ISSUE    : Complete architecture.txt outlining any interesting features about
+your design. You should outline which design patterns you used where.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.10 : UTORID : liusherm : STATUS : Complete
+NAME     : Seperating hint and available moves
+OWNER    : Sherman
+PRIORITY : 1
+ESTIMATE : 30 min ACTUAL: 15 min
+ISSUE    : Whenever the user switches to a different hint the board is clearing all highlights, which includes
+all available moves
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.19 : UTORID : lejia, yoshiza9, fujimor1, liusherm : STATUS : Complete
+NAME     : Javadoc
+OWNER    : Jia Hong Le, Jin, Shion, Sherman
+PRIORITY : 1
+ESTIMATE : 1 hour ACTUAL: 1 hour
+ISSUE    : Many classes still require proper Javadoc
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.20 : UTORID : liusherm : STATUS : Complete
+NAME     : Player Strategy test
+OWNER    : Sherman
+PRIORITY : 1
+ESTIMATE : 45 min ACTUAL: 2 hours
+ISSUE    : An effective way to test PlayerStrategy is to cannibalise code from OthelloController.java
+and see how it fairs against playerGreedy and playerRandom. PlayerStrategy should have a substantial
+wintrate against these two players because it is smarter. NOTE: This class does not need to be merged 
+with master.  

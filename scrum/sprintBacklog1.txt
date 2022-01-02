@@ -1,0 +1,62 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 1 Oct 20-Oct 26, 2019
+# Sprint 1 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+TYPE     : BUG 0.01 : UTORID : lejia : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Jia Hong Le
+PRIORITY : 1
+ESTIMATE : 1 hour  ACTUAL : 1 hour
+ISSUE    : Member 1
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.02 : UTORID : fujimor1 : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Shion Fujimori
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL : 3 hours
+ISSUE    : Member 2
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.03 : UTORID : yoshiza9 : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Jin Yoshizawa
+PRIORITY : 1
+ESTIMATE : 1 hour    ACTUAL :  3 hour
+ISSUE    : Member 3
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 0.04 : UTORID : liusherm : STATUS : Complete
+NAME     : Configure and use system
+OWNER    : Sherman Liu
+PRIORITY : 1
+ESTIMATE : 20 mins    ACTUAL :  3 hours
+ISSUE    : Member 4
+- demonstrates that they have added, committed and pushed members.txt.
+- demonstrates that they can run OthelloControllerHumanVSHuman on their dev platform
+- demonstrates that they can run MVCApplication on their dev platform
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.01 : UTORID : lejia : STATUS : Complete
+NAME     : OthelloGUI Click Registration
+OWNER    : Jia Hong Le
+PRIORITY : 1
+ESTIMATE : 2 hours   ACTUAL : 2 hours
+ISSUE    : User can now click on an 8x8 grid of buttons used by the 
+OthelloApplication. At this stage, a click results in a print out of 
+the (row,col) that the user clicked.
+--------------------------------------------------------------------------
+

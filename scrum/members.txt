@@ -1,0 +1,6 @@
+Member1 name: Jin Yoshizawa email:  jin.yoshizawa@mail.utoronto.ca      utorid: yoshiza9
+Member2 name: Sherman Liu email: sherman.liu@mail.utoronto.ca      utorid: liusherm
+Member3 name: Jia Hong Le email: jiahong.le@mail.utoronto.ca      utorid: lejia
+Member4 name: Shion Fujimori email: shion.fujimori@mail.utoronto.ca   utorid: fujimor1
+
+Coach Name: Matt Huynh	email: matt.huynh@mail.utoronto.ca

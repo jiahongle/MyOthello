@@ -1,0 +1,80 @@
+# Move User Stories from the ProductBacklog 
+# to the appropriate sprintBacklogN.txt after the 
+# Sprint Planning Meeting.
+
+# Sprint 2 Oct 27-Nov 02, 2019
+# Sprint 2 Backlog UserStories go below
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.011 : UTORID : fujimor1, lejia, liusherm, yoshiza9 : STATUS : Complete
+NAME     : OthelloGUI Buttons Active, Console View
+OWNER    : Sherman (coded), JiaHong, Jin, Shion (Brainstormed MVC Structure)
+PRIORITY : 1
+ESTIMATE : 30 min   ACTUAL : 1 hour
+ISSUE    : The users can now use the OthelloGUI created in US1.01
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console. This basically replaces the keyboard
+in the old HumanVSHuman game, but the output is still on the console.
+
+NOTE: Make sure that you are using good MVC principles in implementing this.
+If you didn't then file BUG 1.012 to fix the implementation.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.012 : UTORID : fujimor1, lejia, liusherm, yoshiza9 : STATUS : Complete
+NAME     : OthelloGUI
+OWNER    : JiaHong(coded), Jin, Shion Sherman (Brainstormed MVC Structure) 
+PRIORITY : 1
+ESTIMATE : 30 min ACTUAL: 10 min --> Only because everyone worked hard brainstorming and implementing US1.011 tgt
+ISSUE    : The users can now use the OthelloGUI created in US1.011
+for Human vs Human play. Now when the user clicks a button, the resulting
+board is printed on the console.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.02 : UTORID : liusherm : STATUS : Complete
+NAME     : Othello Board Human VS Human
+OWNER    : Sherman
+PRIORITY : (1,2,3)
+ESTIMATE : 1 hour    ACTUAL : 2 hours
+ISSUE    : The users can now use the OthelloGUI created in US1.012
+for Human vs Human play. The grid buttons simply show X and O text
+labels for the buttons. There is no longer a console display as in 1.012.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : BUG 1.021 : UTORID : fujimor1, lejia, liusherm, yoshiza9 : STATUS : Complete
+NAME     : Check Architecture
+OWNER    : All group members (Brainstormed and implemented)
+PRIORITY : (1,2,3)
+ESTIMATE : 1 hour    ACTUAL : 3 hours
+ISSUE    : If your code is not MVC right now, fix it to MVC. Pay the price
+now to create a good architecture, rather than clean up a lot of code later.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.03 : UTORID : lejia : STATUS : Complete
+NAME     : Whos Next
+OWNER    : Jia Hong Le
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+ISSUE    : When users play HumanVSHuman, the player that moves next is on display,
+correctly showing the token of the next player to make a move.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.04 : UTORID : yoshiza9 : STATUS : Complete
+NAME     : Token Counter
+OWNER    :	Jin 
+PRIORITY : 1
+ESTIMATE : 1 hour   ACTUAL : 1 hour
+ISSUE    : When user play, the count for each player is on display.
+This count shows the
+current number of P1 tokens and P2 tokens on the board.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+TYPE     : USER STORY 1.05 : UTORID : liusherm : STATUS : Complete
+NAME     : Who Won
+OWNER    : Sherman Liu
+PRIORITY : 1 
+ESTIMATE : 20min    ACTUAL : 15 min
+ISSUE    : When users play, the current status of the game is on display, showing the token
+of the winner of the game.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------

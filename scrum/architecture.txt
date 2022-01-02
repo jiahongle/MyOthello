@@ -1,0 +1,36 @@
+# Use this to outline your architecture, list the design patterns
+# you used in your code and how you used them. Use a few as appropriate
+# to make your code better, using them to complicate code will not help
+# your marks. Start by looking at the design patterns we covered in class.
+
+# USED 
+Observer/Observable : Created by arnold, to be used by the View to observe the Model.
+Strategy: When handling users switching game mode, strategy design pattern was used. 
+Factory: When initializing strategies for strategy pattern, we utilize the factory design pattern
+		to hide the instantiation process from users by creating a 'create' method which instantiates
+		the strategies. 
+Visitor: The operation to get the corresponding token on the board is encapsulated to a getTokenVisitor class. 
+This is an initial step to move certain operations to visitor classes i.e different classes so that
+future operations on othelloBoard can be added which do not involve modifying the original structure (OthelloBoard)
+This makes OThellobaord more extensible because the visitor design pattern enables 
+future developers to extend the API without potentially compromising the structure of OthelloBoard 
+
+# UNUSED
+Singleton
+Decorator
+State
+Adapter
+Command
+Iterator
+Flyweight
+Facade
+Proxy
+Composite
+Prototype
+Abstract Factory
+Bridge
+Template Method
+Builder
+Chain of Responsibility
+...
+There are more...

@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:      email:     utorid:   
+
+Oct 17,2019
+	What I did yesterday: I didn't do anything
+	What I will do today: Add email and name to members.txt
+	Obstacles I face: None
+
+Oct 18,2019
+	What I did yesterday: Added email and name to members.txt
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Oct 19,2019
+	What I did yesterday: Nothing
+	What I will do today: Set up java environment for the assignment
+	Obstacles I face: Troubles with Java11 and javafx
+
+Oct 20,2019
+	What I did yesterday: Attempted to set up java environment
+	What I will do today: Finish setting up java environment
+	Obstacles I face: Java11 didn't work, reverted to Java8
+
+Oct 21,2019
+	What I did yesterday: Finished setting up environment 
+	What I will do today: Nothing
+	Obstacles I face: None
+
+Oct 22,2019
+	What I did yesterday: Nothing (prepared for 232 test)
+	What I will do today: Nothing (prepared for 232 test)
+	Obstacles I face: None
+
+Oct 23,2019
+	What I did yesterday: Nothing (prepared for 232 test)
+	What I will do today: Nothing (prepared for 232 test)
+	Obstacles I face: None
+
+Oct 24,2019
+	What I did yesterday: Nothing (prepared for 232 test)
+	What I will do today: Nothing (prepared for 232 test)
+	Obstacles I face: None
+
+Oct 25,2019
+	What I did yesterday: Nothing (prepared for 232 test)
+	What I will do today: Review Assignment1 solution
+	Obstacles I face: None
+
+Oct 26,2019
+	What I did yesterday: Reviewed Assignment1 solution
+	What I will do today: Review the User Stories for A2 and work on US1.01
+	Obstacles I face: None
+
+Oct 27,2019
+	What I did yesterday: Review USs and completed US1.01 and BUG1.01
+	What I will do today: Began working on BUG1.021 with rest of group
+	Obstacles I face: Understanding the MVC structure of our game
+
+Oct 28,2019
+	What I did yesterday: Completed BUG1.021
+	What I will do today: Started US1.03
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: started US1.03
+	What I will do today: Nothing (Revision for 207)
+	Obstacles I face: None
+
+Oct 30,2019
+	What I did yesterday: Nothing (Revision for 207)
+	What I will do today: Nothing (Revision for 207)
+	Obstacles I face: None
+
+Oct 31,2019
+	What I did yesterday: Nothing (Revision for 207)
+	What I will do today: Nothing (Revision for 207)
+	Obstacles I face: None
+
+Nov 1,2019
+	What I did yesterday: Nothing (Revision for 207)
+	What I will do today: Continued US1.03
+	Obstacles I face: None
+
+Nov 2,2019
+	What I did yesterday: Completed US1.03
+	What I will do today: Nothing (Revision for STA256)
+	Obstacles I face: None
+
+Nov 3,2019
+	What I did yesterday: Nothing (Revision for STA256)
+	What I will do today: Nothing (Revision for MAT232)
+	Obstacles I face: None
+
+Nov 4,2019
+	What I did yesterday: Nothing (Revision for MAT232)
+	What I will do today: Nothing (Revision for STA256)
+	Obstacles I face: None
+
+Nov 5,2019
+	What I did yesterday: Nothing (Revision for STA256)
+	What I will do today: Begin working on US1.07
+	Obstacles I face: Confusion over whether P1 is always human
+
+Nov 6,2019
+	What I did yesterday: Began working on US1.07
+	What I will do today: Nothing (Revision for STA256)
+	Obstacles I face: None
+
+Nov 7,2019
+	What I did yesterday: Nothing (Revision for STA256)
+	What I will do today: Complete US1.07 and 1.071
+	Obstacles I face: None
+
+Nov 8,2019
+	What I did yesterday: Completed US1.07
+	What I will do today: Complete 1.071
+	Obstacles I face: Confusion over whether P1 is always human
+
+Nov 9,2019
+	What I did yesterday: Completed 1.071
+	What I will do today: Complete US1.09 and US1.091
+	Obstacles I face: Implementing timer was challenging
+
+Nov 10,2019
+	What I did yesterday: Completed US1.09 and US1.091
+	What I will do today: Complete US1.11
+	Obstacles I face: getting all elements of GUI to reset upon restart
+
+Nov 11,2019
+	What I did yesterday: Completed US1.11
+	What I will do today: Nothing (Revision for CSC236)
+	Obstacles I face: None
+
+Nov 12,2019
+	What I did yesterday: Nothing (Revision for CSC236)
+	What I will do today: Fix BUG1.07 (re-implement opponentChooserGUI)
+	Obstacles I face: Was unsure whether both P1, P2 could be AI
+
+Nov 13,2019
+	What I did yesterday: Fixed BUG1.07
+	What I will do today: Nothing (Revision for CSC236)
+	Obstacles I face: None
+
+Nov 14,2019
+	What I did yesterday: Nothing (Revision for CSC236)
+	What I will do today: Implement US1.14
+	Obstacles I face: None
+
+Nov 15,2019
+	What I did yesterday: Implemented US1.14
+	What I will do today: Fix existing BUGS discovered within code
+	Obstacles I face: Nothing
+
+Nov 16,2019
+	What I did yesterday: Fixed bugs on US1.15 
+	What I will do today: Takeover US1.13 and reimplement animation
+	Obstacles I face: Setting delay on AI move
+
+Nov 17,2019
+	What I did yesterday: Completed US1.13
+	What I will do today: Finalize project
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:

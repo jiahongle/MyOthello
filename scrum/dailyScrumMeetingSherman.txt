@@ -1,0 +1,222 @@
+# Fill in, commit and push each day.
+Member name:      email:     utorid:   
+
+Oct 17,2019
+	What I did yesterday:
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 18,2019
+	What I did yesterday:
+	What I will do today: Nothing
+	Obstacles I face:
+
+Oct 19,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 20,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 21,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 22,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 23,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 24,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 25,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 26,2019
+	What I did yesterday:
+	What I will do today:Nothing
+	Obstacles I face:
+
+Oct 27,2019
+	What I did yesterday:
+	What I will do today: Fix working environment. The problem was that the src folder was not properly set straight - I unknowingly changed it.
+	Obstacles I face:
+
+Oct 28,2019
+	What I did yesterday:
+	What I will do today: Implement US1.02 by merging US.101. The end result should be that when a user players X's and O's should appear on the board. 
+	Obstacles I face:
+
+Oct 29,2019
+	What I did yesterday: Tried to implement US1.02 Made the buttons bigger and was trying to implement MVC structure with group members
+	What I will do today:Brainstormed 
+	Obstacles I face: Was unsure which controllers to use for MVC structure
+
+Oct 30,2019
+	What I did yesterday: continued to work on implementing MVC structure
+	What I will do today: Realised that our group didn't complete US1011 and US1.012. Implemented both with the help of team-mates and completed US1.02
+	Obstacles I face: None as of now. Will continue to divide work evenly amongst group members
+
+Oct 31,2019
+	What I did yesterday: Nothing
+	What I will do today: NOthikng
+	Obstacles I face: Nothing 
+
+Nov 1,2019
+	What I did yesterday: Nothing
+	What I will do today: Divided up user stories
+	Obstacles I face: Nothing
+
+Nov 2,2019
+	What I did yesterday: Nothing
+	What I will do today: Nothing
+	Obstacles I face: Nothing
+
+Nov 3,2019
+	What I did yesterday: Nothing
+	What I will do today: Start working on US1.05
+	Obstacles I face: Nothing
+
+Nov 4,2019
+	What I did yesterday: Merged US1.04 and US1.03 onto US1.05 branch and completd US1.05
+	What I will do today: Nothing, Study for STA256
+	Obstacles I face:
+
+Nov 5,2019
+	What I did yesterday: Nothing, Study for STA256
+	What I will do today: Nothing, Study for STA256
+	Obstacles I face:
+
+Nov 6,2019
+	What I did yesterday: Nothing, Study for STA256  
+	What I will do today:Nothing, Study for STA256
+	Obstacles I face:
+
+Nov 7,2019
+	What I did yesterday: Nothing, Study for STA256
+	What I will do today: Divide up user stories, move unfinished userstores to sprintbacklog3, start US1.06
+	Obstacles I face: Not a difficult one, but it will take time to learn how to set images to javafx buttons.
+
+Nov 8,2019
+	What I did yesterday: Divided up a couple of user stories with team and started working on US1.06 
+	What I will do today: Finish US1.06 and start working on US1.10
+	Obstacles I face: Nothing really, today was just cannibalising PlayerGreedy's move function for US1.10 
+
+Nov 9,2019
+	What I did yesterday: Completed US1.10
+	What I will do today: Study for CSC236
+	Obstacles I face: Nothing
+
+Nov 10,2019
+	What I did yesterday: Study for CSC236
+	What I will do today: Study for CSC236
+	Obstacles I face: Nothing
+
+Nov 11,2019
+	What I did yesterday: Study for CSC236
+	What I will do today: Study for CSC236
+	Obstacles I face: Nothing
+
+Nov 12,2019
+	What I did yesterday: Study for CSC236
+	What I will do today: Study for CSC236
+	Obstacles I face: Nothing
+
+Nov 13,2019
+	What I did yesterday: Study for CSC236
+	What I will do today: Start working on US1.101
+	Obstacles I face: Nothing
+
+Nov 14,2019
+	What I did yesterday: Started working on US1.101
+	What I will do today: Finish US1.101
+	Obstacles I face: Nothing
+
+Nov 15,2019
+	What I did yesterday: Finished US1.101
+	What I will do today: Finish US1.15
+	Obstacles I face: Testing player strategy in an efficient manner
+
+Nov 16,2019
+	What I did yesterday: Complete US1.15
+	What I will do today: Test US1.15 and Implement Visitor and Visited design pattern
+	Obstacles I face: 
+
+Nov 17,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 18,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 19,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 20,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 21,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 22,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 23,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 24,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 25,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 26,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 27,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 28,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
+
+Nov 29,2019
+	What I did yesterday:
+	What I will do today:
+	Obstacles I face:
